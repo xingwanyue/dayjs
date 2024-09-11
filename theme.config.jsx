@@ -6,14 +6,15 @@ export default {
     </>
   ),
   project: {
-    link: "https://github.com/shuding/nextra",
+    link: "https://github.com/xingwanyue/dayjs",
   },
+  docsRepositoryBase:"https://github.com/xingwanyue/dayjs",
   i18n: [
     { locale: "en", text: "English" },
     { locale: "zh", text: "中文" },
   ],
   sidebar: {
-    defaultMenuCollapseLevel: 0,
+    defaultMenuCollapseLevel: 1,
     autoCollapse: false,
   },
   footer: {
@@ -22,4 +23,5 @@ export default {
   search: {
     placeholder: "Search",
   },
+  toc: { float: false },
 };
