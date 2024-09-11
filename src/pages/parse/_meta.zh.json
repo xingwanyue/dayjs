@@ -1,0 +1,14 @@
+{
+  "parse": "Parse",
+  "now": "Now",
+  "string": "String",
+  "string-format": "String + Format",
+  "unix-timestamp-milliseconds": "Unix Timestamp (milliseconds)",
+  "unix-timestamp": "Unix Timestamp (seconds)",
+  "date": "Date",
+  "object": "Object",
+  "array": "Array",
+  "utc": "UTC",
+  "dayjs-clone": "Dayjs Clone",
+  "validation": "Validation"
+}
