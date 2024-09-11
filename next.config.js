@@ -15,7 +15,4 @@ module.exports = withNextra({
     locales: ["en", "zh"],
     defaultLocale: "en",
   },
-  experimental: {
-    outputFileTracing: false, // 禁用输出文件跟踪
-  },
 });
