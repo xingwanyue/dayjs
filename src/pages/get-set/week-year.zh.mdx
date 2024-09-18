@@ -1,0 +1,16 @@
+import { Callout } from "nextra/components";
+
+# Week Year
+
+Gets the week-year according to the locale.
+
+<Callout>
+  This requires the [WeekYear](../plugin/week-year) plugin to work
+</Callout>
+
+```javascript
+dayjs.extend(weekYear);
+dayjs.extend(weekOfYear);
+
+dayjs().weekYear();
+```

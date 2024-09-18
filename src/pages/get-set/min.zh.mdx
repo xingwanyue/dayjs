@@ -1,0 +1,15 @@
+import { Callout } from "nextra/components";
+
+# Minimum
+
+Returns the minimum (most distant past) of the given Day.js instances.
+This accepts both multiple arguments and array that contains Day.js instance.
+
+<Callout>This requires the [MinMax](../plugin/min-max) plugin to work</Callout>
+
+```js
+dayjs.extend(minMax);
+
+dayjs.min(dayjs(), dayjs("2018-01-01"), dayjs("2019-01-01"));
+dayjs.min([dayjs(), dayjs("2018-01-01"), dayjs("2019-01-01")]);
+```

@@ -1,0 +1,15 @@
+import { Callout } from "nextra/components";
+
+# Week Year
+
+Gets the [ISO week-year](https://en.wikipedia.org/wiki/ISO_week_date).
+
+<Callout>
+  This requires the [IsoWeek](../plugin/iso-week) plugin to work
+</Callout>
+
+```javascript
+dayjs.extend(isoWeek);
+
+dayjs().isoWeekYear();
+```
