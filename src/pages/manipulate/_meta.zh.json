@@ -1,0 +1,10 @@
+{
+  "manipulate": "Manipulate",
+  "add": "Add",
+  "subtract": "Subtract",
+  "start-of": "Start of Time",
+  "end-of": "End of Time",
+  "local": "Local",
+  "utc": "UTC",
+  "utc-offset": "UTC offset"
+}
