@@ -1,0 +1,19 @@
+{
+  "display": "Display",
+  "format": "Format",
+  "from-now": "Time from now",
+  "from": "Time from X",
+  "to-now": "Time to now",
+  "to": "Time to X",
+  "calendar-time": "Calendar Time",
+  "difference": "Difference",
+  "unix-timestamp-milliseconds": "Unix Timestamp (milliseconds)",
+  "unix-timestamp": "Unix Timestamp",
+  "days-in-month": "Days in Month",
+  "as-javascript-date": "As Javascript Date",
+  "as-array": "As Array",
+  "as-json": "As JSON",
+  "as-iso-string": "As ISO 8601 String",
+  "as-object": "As Object",
+  "as-string": "As String"
+}

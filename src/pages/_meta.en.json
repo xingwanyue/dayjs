@@ -6,5 +6,6 @@
   "installation": "Installation",
   "parse": "Parse",
   "get-set": "Get + Set",
-  "manipulate": "Manipulate"
+  "manipulate": "Manipulate",
+  "display": "Display"
 }
