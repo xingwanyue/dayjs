@@ -1,0 +1,11 @@
+{
+  "query": "Query",
+  "is-before": "Is Before",
+  "is-same": "Is Same",
+  "is-after": "Is After",
+  "is-same-or-before": "Is Same or Before",
+  "is-same-or-after": "Is Same or After",
+  "is-between": "Is Between",
+  "is-a-dayjs": "Is a Dayjs",
+  "is-leap-year": "Is Leap Year"
+}

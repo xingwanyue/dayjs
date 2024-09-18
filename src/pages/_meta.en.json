@@ -7,5 +7,6 @@
   "parse": "Parse",
   "get-set": "Get + Set",
   "manipulate": "Manipulate",
-  "display": "Display"
+  "display": "Display",
+  "query": "Query"
 }

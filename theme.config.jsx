@@ -8,7 +8,7 @@ export default {
   project: {
     link: "https://github.com/xingwanyue/dayjs",
   },
-  docsRepositoryBase:"https://github.com/xingwanyue/dayjs",
+  docsRepositoryBase: "https://github.com/xingwanyue/dayjs",
   i18n: [
     { locale: "en", text: "English" },
     { locale: "zh", text: "中文" },
@@ -17,9 +17,7 @@ export default {
     defaultMenuCollapseLevel: 1,
     autoCollapse: false,
   },
-  footer: {
-    text: "@d",
-  },
+  footer: { component: () => null },
   search: {
     placeholder: "Search",
   },
