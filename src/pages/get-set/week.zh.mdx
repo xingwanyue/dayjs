@@ -1,0 +1,14 @@
+import { Callout } from "nextra/components";
+
+# Week of Year
+
+Gets or sets the week of the year.
+
+<Callout>This requires the [WeekOfYear](../plugin/week-of-year) plugin to work</Callout>
+
+```js
+dayjs.extend(weekOfYear)
+
+dayjs('2018-06-27').week() // 26
+dayjs('2018-06-27').week(5) // returns new dayjs object
+```

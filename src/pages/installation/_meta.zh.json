@@ -1,4 +1,7 @@
 {
   "installation": "Installation",
-  "nodejs": "Node.js"
+  "nodejs": "Node.js",
+  "browser": "Browser",
+  "typeScrpt": "TypeScrpt",
+  "download": "Download"
 }

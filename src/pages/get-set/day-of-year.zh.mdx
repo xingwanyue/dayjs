@@ -1,0 +1,18 @@
+import { Callout } from "nextra/components";
+
+# Day of Year
+
+Gets or sets the day of the year.
+
+Accepts numbers from 1 to 366.
+
+If the range is exceeded, it will bubble up to the years.
+
+<Callout>This requires the [DayOfYear](../plugin/day-of-year) plugin to work</Callout>
+
+```js
+dayjs.extend(dayOfYear);
+
+dayjs("2010-01-01").dayOfYear(); // 1
+dayjs("2010-01-01").dayOfYear(365); // 2010-12-31
+```

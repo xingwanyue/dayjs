@@ -10,5 +10,5 @@
   "array": "Array",
   "utc": "UTC",
   "dayjs-clone": "Dayjs Clone",
-  "validation": "Validation"
+  "is-valid": "Validation"
 }

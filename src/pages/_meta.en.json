@@ -4,5 +4,6 @@
     "display": "hidden"
   },
   "installation": "Installation",
-  "parse": "Parse"
+  "parse": "Parse",
+  "get-set": "Get + Set"
 }

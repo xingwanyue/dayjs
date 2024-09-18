@@ -1,0 +1,16 @@
+import { Callout } from "nextra/components";
+
+# Quarter
+
+Gets or sets the quarter.
+
+<Callout>
+  This requires the [QuarterOfYear](../plugin/quarter-of-year) plugin to work
+</Callout>
+
+```js
+dayjs.extend(quarterOfYear)
+
+dayjs('2010-04-01').quarter() // 2
+dayjs('2010-04-01').quarter(2) // returns new dayjs object
+```
