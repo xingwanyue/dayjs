@@ -22,4 +22,9 @@ export default {
     placeholder: "Search",
   },
   toc: { float: false },
+  useNextSeoProps() {
+    return {
+      titleTemplate: "%s - dayjs – Day.js",
+    };
+  },
 };

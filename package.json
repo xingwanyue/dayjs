@@ -1,7 +1,7 @@
 {
-  "name": "nextra",
+  "name": "dayjs",
   "version": "0.0.5",
-  "description": "",
+  "description": "dayjs",
   "main": "index.js",
   "scripts": {
     "dev": "next",
