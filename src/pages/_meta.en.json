@@ -10,5 +10,6 @@
   "display": "Display",
   "query": "Query",
   "i18n": "i18n",
-  "plugin": "Plugins"
+  "plugin": "Plugins",
+  "customization": "ustomize"
 }

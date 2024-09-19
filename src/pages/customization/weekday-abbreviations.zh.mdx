@@ -1,0 +1,17 @@
+import { Callout } from "nextra/components";
+
+# Weekday Abbreviations
+
+`Locale#weekdaysShort` should be an array of the weekdays abbreviations.
+
+<Callout>
+  This requires the [UpdateLocale](../plugin/update-locale) plugin to work
+</Callout>
+
+```js
+dayjs.extend(updateLocale);
+
+dayjs.updateLocale("en", {
+  weekdaysShort: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+});
+```
