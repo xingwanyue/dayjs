@@ -8,5 +8,6 @@
   "get-set": "Get + Set",
   "manipulate": "Manipulate",
   "display": "Display",
-  "query": "Query"
+  "query": "Query",
+  "i18n": "i18n"
 }

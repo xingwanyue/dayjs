@@ -1,0 +1,10 @@
+{
+  "i18n": "i18n",
+  "loading-into-nodejs": "Loading locale in NodeJS",
+  "loading-into-browser": "Loading locale in the browser",
+  "changing-locale": "Changing locale globally",
+  "instance-locale": "Changing locales locally",
+  "getting-locale": "Checking the current Day.js locale",
+  "listing-months-weekdays": "Listing the months and weekdays of the current locale",
+  "locale-data": "Accessing locale specific functionality"
+}
