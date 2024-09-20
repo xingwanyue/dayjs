@@ -49,6 +49,21 @@ export default {
         />
         <meta name="og:image" content="/logo.png" />
         <meta name="apple-mobile-web-app-title" content="dayjs" />
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-R37B1J42C1"
+        ></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+           window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-R37B1J42C1');
+          `,
+          }}
+        />
       </>
     );
   },
