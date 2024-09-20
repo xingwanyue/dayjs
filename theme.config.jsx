@@ -49,6 +49,7 @@ export default {
         />
         <meta name="og:image" content="/logo.png" />
         <meta name="apple-mobile-web-app-title" content="dayjs" />
+        <meta name="baidu-site-verification" content="codeva-WNHKjLTZih" />
         <script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-R37B1J42C1"
