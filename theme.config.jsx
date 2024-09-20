@@ -24,7 +24,7 @@ export default {
   toc: { float: false },
   useNextSeoProps() {
     return {
-      titleTemplate: "%s - Day.js",
+      titleTemplate: "%s - Day.js - 2kB JavaScript date utility library",
     };
   },
   head: () => {
