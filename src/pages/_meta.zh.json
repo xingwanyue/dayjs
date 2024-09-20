@@ -11,5 +11,6 @@
   "query": "Query",
   "i18n": "i18n",
   "plugin": "Plugins",
-  "customization": "ustomize"
+  "customization": "Customize",
+  "durations": "Durations"
 }
