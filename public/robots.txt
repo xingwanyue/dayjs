@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://dayjs.document.wiki
+
+# Sitemaps
+Sitemap: https://dayjs.document.wiki/sitemap.xml
