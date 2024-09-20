@@ -1,0 +1,7 @@
+{
+  "timezone": "Time Zone",
+  "parsing-in-zone": "Parsing in Zone",
+  "converting-to-zone": "Converting to Zone",
+  "guessing-user-timezone": "Guessing user zone",
+  "set-default-timezone": "Set Default Timezone"
+}
