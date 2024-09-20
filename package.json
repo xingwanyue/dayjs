@@ -1,6 +1,6 @@
 {
   "name": "dayjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dayjs",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "next": "^14.2.9",
+    "next-sitemap": "^4.2.3",
     "nextra": "^2.13.4",
     "nextra-theme-docs": "^2.13.4",
     "react": "^18.3.1",
