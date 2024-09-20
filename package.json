@@ -1,6 +1,6 @@
 {
   "name": "dayjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "dayjs",
   "main": "index.js",
   "scripts": {

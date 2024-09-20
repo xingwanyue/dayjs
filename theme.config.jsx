@@ -24,8 +24,7 @@ export default {
   toc: { float: false },
   useNextSeoProps() {
     return {
-      titleTemplate:
-        "%s - Day.js",
+      titleTemplate: "%s - Day.js",
     };
   },
   head: () => {
@@ -53,4 +52,8 @@ export default {
       </>
     );
   },
+  editLink: {
+    component: null,
+  },
+  feedback: { content: null },
 };
