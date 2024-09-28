@@ -1,7 +1,17 @@
+import Image from "next/image";
+
 export default {
   logo: (
     <>
-      <img src="/logo.png" className="logo" />
+      <Image
+        src="/logo.png"
+        className="logo"
+        alt="dayjs"
+        name="dayjs"
+        width={34}
+        height={34}
+        quality={60}
+      />
       <span style={{ marginLeft: "8px" }}>Day.js</span>
     </>
   ),
@@ -11,7 +21,7 @@ export default {
   docsRepositoryBase: "https://github.com/xingwanyue/dayjs",
   i18n: [
     { locale: "en", text: "English" },
-    { locale: "zh", text: "中文" },
+    // { locale: "zh", text: "中文" },
   ],
   sidebar: {
     defaultMenuCollapseLevel: 1,
